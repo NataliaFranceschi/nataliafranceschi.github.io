@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8ea6669.css",
-    "main.js": "/static/js/main.7d86b956.js",
+    "main.css": "/static/css/main.802b35cd.css",
+    "main.js": "/static/js/main.3a64d7f0.js",
     "static/media/Solarsystem.png": "/static/media/Solarsystem.81652941ead1fcc9e56e.png",
     "static/media/Natalia.png": "/static/media/Natalia.98702255de7715bd6df7.png",
     "static/media/Trybetunes.png": "/static/media/Trybetunes.bbfea9cdc7b37566a3ad.png",
     "static/media/starWars.png": "/static/media/starWars.2967364bb1c3c9f2627a.png",
     "static/media/Trivia.png": "/static/media/Trivia.06772b3bce78f8bcb279.png",
     "static/media/RecipeApp.png": "/static/media/RecipeApp.e4e812c7cba551de77ae.png",
+    "static/media/DevBurger.png": "/static/media/DevBurger.ba7a3ac237272f7909b9.png",
     "static/media/Tryunfo.png": "/static/media/Tryunfo.a3aa7079b57c91848d1a.png",
     "static/media/online-store.png": "/static/media/online-store.16f9c5399ef392008123.png",
     "static/media/trybewallet.png": "/static/media/trybewallet.d4536f3b977ae01ace1a.png",
@@ -15,11 +16,11 @@
     "static/media/email.png": "/static/media/email.4d7fcb28f4f282eec753.png",
     "static/media/github.png": "/static/media/github.23652d4c8843e1f20bb4.png",
     "index.html": "/index.html",
-    "main.d8ea6669.css.map": "/static/css/main.d8ea6669.css.map",
-    "main.7d86b956.js.map": "/static/js/main.7d86b956.js.map"
+    "main.802b35cd.css.map": "/static/css/main.802b35cd.css.map",
+    "main.3a64d7f0.js.map": "/static/js/main.3a64d7f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8ea6669.css",
-    "static/js/main.7d86b956.js"
+    "static/css/main.802b35cd.css",
+    "static/js/main.3a64d7f0.js"
   ]
 }
